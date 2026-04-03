@@ -9,8 +9,8 @@ experiences-slots.netlify.app
 - Fast and lightweight  
 - Fully responsive (mobile and desktop)
 Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript
-#database
- -mongodb
+- react.js
+- node.js
+- mongoDB
+- CSS
+
